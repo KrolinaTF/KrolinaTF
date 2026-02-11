@@ -80,6 +80,8 @@ Mi trayectoria combina competencias técnicas con una comprensión profunda del 
 
 ### 🌱 Actualmente
 
+- Realizando un bootcamp de Data Analyst en Factoría F5
+- Realizando microcurso de Computación Cuántica en la Universidad de Deusto
 - Profundizando en MLOps y CI/CD
 - Explorando agentes autónomos y sistemas multiagente
 - Finalizando certificación en Ciberseguridad
