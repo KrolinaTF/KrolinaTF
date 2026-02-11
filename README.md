@@ -74,7 +74,7 @@ Mi trayectoria combina competencias técnicas con una comprensión profunda del 
 
 - 📧 Email: carolinatomasf@gmail.com
 - 💼 LinkedIn: [carolina-tomas-franco](https://www.linkedin.com/in/carolina-tomas-franco/)
-- 📱 Teléfono: 685833701
+
 
 ---
 
