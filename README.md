@@ -84,7 +84,6 @@ Mi trayectoria combina competencias técnicas con una comprensión profunda del 
 - Realizando microcurso de Computación Cuántica en la Universidad de Deusto
 - Profundizando en MLOps y CI/CD
 - Explorando agentes autónomos y sistemas multiagente
-- Finalizando certificación en Ciberseguridad
 - Buscando oportunidades en Data Science, IA Development y proyectos con impacto social
 
 ---
