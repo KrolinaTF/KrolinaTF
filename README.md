@@ -1,6 +1,6 @@
 # Hi there, I'm Carolina Tomás Franco 👋
 
-## Data Scientist · IA Developer · Psicóloga
+## Data Analyst · Data Scientist · IA Developer · Psicóloga
 
 Desarrolladora especializada en **Machine Learning**, **Deep Learning**, **NLP** y **LLMs**, con formación en Psicología Cognitiva. Mi enfoque combina análisis de datos, desarrollo de IA y una perspectiva interdisciplinar centrada en las personas.
 
